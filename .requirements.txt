@@ -1,1 +1,10 @@
-pip install playwright moviepy selenium schedule 
+[DOWNLOAD IN TERMINAL]
+pip install playwright moviepy selenium schedule instalooter configparser instabot
+
+[NOTE]
+if you want to use this for yourself:
+- update instagram username and password to your own
+- update the paths to your own
+- update the video to what you want and adjust the name in the code accordingly
+- consider that it will keep the video to reel format, so make sure the "tang.mp4" replacement is a suitable size
+- replace captions with whatever you want in caption.ini
