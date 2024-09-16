@@ -2,7 +2,14 @@
 
 ###
 
-<p>I decided to create a program that does many things:<br>• Takes input of any instagram name entered<br>• Logs into my Instagram<br>• Webscrapes Instagram reel links from the profiles<br>• Downloads the video<br>• Edits the video to include my custom video below<br>• Loops/Cuts main video to match custom video<br>• Logs into my instagram and uploads the video<br>• Adds my custom caption list of 150+ captions made with custom AI</p>
+<p><bold>I decided to create a program that does many things:</bold><br>
+• Takes input of any instagram name entered<br>
+• Logs into my Instagram<br>
+• Webscrapes Instagram reel links from the profiles<br>
+• Downloads the video<br>• Edits the video to include my custom video below<br>
+• Loops/Cuts main video to match custom video<br>
+• Logs into my instagram and uploads the video<br>
+• Adds my custom caption list of 150+ captions made with custom AI</p>
 
 ###
 
